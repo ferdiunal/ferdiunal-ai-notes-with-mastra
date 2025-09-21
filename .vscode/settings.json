@@ -1,0 +1,5 @@
+{
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "editor.fontFamily": "Menlo, Monaco, 'Courier New', MesloLGS NF"
+}
